@@ -1,1 +1,40 @@
+html {
+  background-color: #E7E6FC;
+}
 
+header {
+  background-color: #595782;
+  font-variant: small-caps;
+  font-family: "American Typewriter", serif;
+  text-align: center;
+  border: 1px solid mediumpurple;
+  color: white;
+  letter-spacing: 2px;
+  font-size: 25px;
+}
+
+nav {
+  font-size: 18px;
+}
+
+p {
+  font-family: serif, bookman, palatino;
+  margin: 35px;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+}
+
+a {
+  font-weight: 600;
+}
+a:link { color: #1D3461}
+a:visited { color: #6290C8}
+a:hover { color: #376996}
+a:active { color: #1F487E}
+
+footer {
+  background-color: #B1B7D1;
+}
